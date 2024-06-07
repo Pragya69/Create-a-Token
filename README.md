@@ -75,7 +75,7 @@ contract MyToken {
 
 Pragya
  
- @ linkedin.com/in/pragya-299103231//pragyathakur092002@gmail.com
+ @https://www.linkedin.com/in/pragya-299103231///pragyathakur092002@gmail.com
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.This code is licensed under the MIT License. You can find the license text in the SPDX-License-Identifier comment at the beginning of the contract.
